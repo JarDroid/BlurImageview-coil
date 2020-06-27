@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BlurImageView</string>
+    <string name="img1">https://c4.wallpaperflare.com/wallpaper/706/157/116/avengers-infinity-war-4k-thanos-wallpaper-preview.jpg</string>
+    <string name="img2">https://c4.wallpaperflare.com/wallpaper/611/141/228/iron-man-marvel-comics-tony-stark-gaurav-wallpaper-preview.jpg</string>
+    <string name="img3">https://c4.wallpaperflare.com/wallpaper/555/440/1017/iron-man-iron-man-2-iron-man-3-avengers-endgame-avengers-infinity-war-hd-wallpaper-preview.jpg</string>
+    <string name="img4">https://c4.wallpaperflare.com/wallpaper/309/466/449/avengers-infinity-war-artwork-thanos-infinity-gauntlet-wallpaper-preview.jpg</string>
+    <string name="img5">https://c4.wallpaperflare.com/wallpaper/780/684/986/infinity-stones-infinity-gauntlet-thanos-avengers-infinity-war-wallpaper-preview.jpg</string>
+</resources>
