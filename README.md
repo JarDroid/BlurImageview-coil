@@ -62,19 +62,19 @@ Simple use look like this:
 * Set **Drawable** with blur effect.
 
 ```java
-blurImageArtist.setDrawableImage(R.drawablr.img,R.drawablr.error,R.drawable.place,5f,5f)//blur radius and blur sampling 
+blurImageArtist.setDrawableImage(R.drawabl.img,R.drawablr.error,R.drawable.place,5f,5f)//blur radius and blur sampling 
 
 ```
 * Set **URL** with blur effect.
 
 ```java
-blurImageArtist.setUrlImage(url,R.drawablr.error,R.drawable.place,5f,5f)//blur radius and blur sampling 
+blurImageArtist.setUrlImage(url,R.drawabl.error,R.drawable.place,5f,5f)//blur radius and blur sampling 
 
 ```
 * Set **Resources**  with blur effect.
 
 ```java
-blurImageArtist.setResImage(resources ,R.drawablr.error,R.drawable.place,5f,5f)//blur radius and blur sampling 
+blurImageArtist.setResImage(resources ,R.drawabl.error,R.drawable.place,5f,5f)//blur radius and blur sampling 
 
 ```
 * Set **Drawable** without blur effect.
