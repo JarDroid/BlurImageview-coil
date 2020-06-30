@@ -74,7 +74,7 @@ blurImageArtist.setUrlImage(url,R.drawabl.error,R.drawable.place,5f,5f)//blur ra
 * Set **Resources**  with blur effect.
 
 ```java
-blurImageArtist.setResImage(resources ,R.drawabl.error,R.drawable.place,5f,5f)//blur radius and blur sampling 
+blurImageArtist.setResImage(resources,R.drawabl.error,R.drawable.place,5f,5f)//blur radius and blur sampling 
 
 ```
 * Set **Drawable** without blur effect.
