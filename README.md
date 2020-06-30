@@ -82,3 +82,9 @@ blurImageArtist.setResImage(resources,R.drawabl.error,R.drawable.place,5f,5f)//b
 blurImageArtist.setDrawableImage(R.drawable.img)
 
 ````
+Author
+------
+Nikhil Lad - @JarDroid
+
+Thanks
+------
