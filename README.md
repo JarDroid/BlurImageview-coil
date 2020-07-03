@@ -1,6 +1,7 @@
 BlurImageview-coil
 ==================
 
+![](https://github.com/JarDroid/BlurImageview-coil/blob/master/blurimageview.gif)
 
 #### The BlurImageview-coil is allow you to make your imageview background with blur efect transformation. As of same image which you set in imageview.
 
